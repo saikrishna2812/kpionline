@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_4-TL8NhwEemLN5pYbyDLSg" label="KPA_Sogeti" description="Development for KPA_Sogeti Team members" language="java" technicalLabel="KPA_SOGETI" author="_4-TL8dhwEemLN5pYbyDLSg" productVersion="Talend Cloud Real-Time Big Data Platform-7.2.1.20190725_0259" url="{&quot;location&quot;:&quot;https://github.com/saikrishna2812/kpionline.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_4-yUINhwEemLN5pYbyDLSg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_4-TL8dhwEemLN5pYbyDLSg" login="srinivas1@nfrthinkartha.com" firstName="Srinivas" lastName="Poddutoori" type="DQ"/>
+</xmi:XMI>
